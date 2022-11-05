@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject>RefrigerantEmssnFctr</baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>Refrigerant emissions factors</description>
+    <label>Refrigerant EFs</label>
+    <sections>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Id</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>true</checkedByDefault>
+            <field>Name</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>CreatedDate</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>CreatedBy</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>LastModifiedDate</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>LastModifiedBy</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>EmissionFactorUpdateYear</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>GlblWarmingPotInKgCo2eKg</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>EmissionFactorDataSource</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>External_ID__c</field>
+            <table>RefrigerantEmssnFctr</table>
+        </columns>
+        <masterLabel>Refrigerant Emissions Factors</masterLabel>
+    </sections>
+</ReportType>
